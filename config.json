@@ -71,53 +71,52 @@
         "role": "AI in development and testing trainer",
         "date": "June, 2025 - June 2025",
         "responsibilities": [
-          "Enabling developers and QA people to use AI in development and testing ",
+          "Enabling developers and QA people to use AI in development and testing",
           "GitHub Copilot",
-          "OpenAI API, ",
+          "OpenAI API",
           "Claude AI",
           "Amazon Q Developer",
           "Amazon Q Business"
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
-      }
-        {
+      },
+      {
         "company": "Lenovo",
         "role": "Corporate trainer",
         "date": "May, 2025 - May, 2025",
         "responsibilities": [
           "Pivot tables and Pivot charts",
           "Advanced Excel"
-                  ],
+        ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
-      }
-        {
+      },
+      {
         "company": "TCS",
         "role": "cloud consultant",
         "date": "May, 2025 - May, 2025",
         "responsibilities": [
           "Enabling database administrators to migrate to AWS RDS Aurora",
-          "AWS RDS Aurora ",
-          "MySQL ",
+          "AWS RDS Aurora",
+          "MySQL",
           "PostgreSQL"
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
-      }
-        {
+      },
+      {
         "company": "SRMIT",
         "role": "Corporate trainer",
         "date": "April-June 2025",
         "responsibilities": [
-          " training on Docker & Kubernetes",
+          "Training on Docker & Kubernetes",
           "AWS DevOps",
           "AWS CloudWatch",
           "AWS CloudTrail",
           "AWS CloudFormation",
           "AWS Storage Gateway",
           "Terraform"
-         
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
@@ -132,7 +131,7 @@
         "items": [
           "Python",
           "Java",
-           "AWS",
+          "AWS",
           "Google Cloud",
           "Microsoft Azure"
         ]
@@ -145,7 +144,7 @@
           "GitHub Copilot",
           "Amazon Q Developer",
           "Claude AI",
-          "openAI API"
+          "OpenAI API",
           "VS Code",
           "MySQL",
           "PostgreSQL"
@@ -157,8 +156,7 @@
           {
             "name": "AWS Solution Architect Associate, Google Associate Cloud Engineer, AWS AI Practitioner",
             "url": "https://www.credly.com/users/sunil-kumar.971a054e"
-          },
-          "https://www.credly.com/users/sunil-kumar.971a054e"
+          }
         ]
       }
     ]
