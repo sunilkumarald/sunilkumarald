@@ -1,4 +1,4 @@
-# sunilkumarald - Developer Portfolio
+# sunilkumarald - Cloud Consultant and Corporate Trainer Portfolio
 
 <div align="left">
   
@@ -37,8 +37,9 @@ Let's connect and build something amazing together!
 
 - 🌐 **Portfolio**: [https://sunilkumarald.github.io/sunilkumarald](https://sunilkumarald.github.io/sunilkumarald)
 - 💻 **GitHub**: [https://github.com/sunilkumarald](https://github.com/sunilkumarald)
-- 🔗 **LinkedIn**: [undefined](undefined)
-
+- 🔗 **LinkedIn**:[https://www.linkedin.com/in/cloudwithsunil/](https://www.linkedin.com/in/cloudwithsunil/)
+-  **YouTube**: [https://www.youtube.com/@sunilkumarOnCloud](https://www.youtube.com/@sunilkumarOnCloud)
+ **Blog**: [https://medium.com/@suniel.vns](https://medium.com/@suniel.vns)
 ---
 
 *Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
