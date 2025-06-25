@@ -11,8 +11,8 @@
     "description": "Cloud Consultant & Corporate trainer Portfolio",
     "seo": {
       "title": "sunilkumarald - Cloud Consultant & Corporate trainer Portfolio",
-      "description": "Cloud Consultant & Corporate trainer of sunilkumarald",
-      "keywords": "corporate, training, cloud, developer, portfolio, github",
+      "description": "Cloud Consultant & Corporate training",
+      "keywords": "corporate, Consulting, training, cloud, developer, portfolio, github",
       "author": "sunilkumarald",
       "og_image": "https://avatars.githubusercontent.com/sunilkumarald",
       "twitter_card": "summary_large_image",
@@ -24,6 +24,12 @@
     "tagline": "Cloud Consultant and Corporate Trainer."
   },
   "social_links": [
+     {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/cloudwithsunil/",
+      "icon": "linkedin",
+      "required": true
+    }
     {
       "name": "GitHub",
       "url": "https://github.com/sunilkumarald",
@@ -34,7 +40,7 @@
   "github_username": "sunilkumarald",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about cloud consulting, corporate training and tech events",
+      "Welcome to my portfolio! I'm passionate about cloud consulting, corporate training, and pre-sales.",
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
@@ -61,14 +67,57 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Cloudmasters",
-        "role": "Independent cloud consultant",
-        "date": "Start Date - Present",
+        "company": "UST Global",
+        "role": "AI in development and testing trainer",
+        "date": "June, 2025 - June 2025",
         "responsibilities": [
-          "Enabling people on cloud technologies",
-          "AWS, Google Cloud, Microsoft Azure, HitHub copilot ",
-          "AI in development and training, ",
-          "Training and consulting"
+          "Enabling developers and QA people to use AI in development and testing ",
+          "GitHub Copilot",
+          "OpenAI API, ",
+          "Claude AI",
+          "Amazon Q Developer",
+          "Amazon Q Business"
+        ],
+        "logo": "assets/logos/Placeholder_Logo.png",
+        "logo_dark": "assets/logos/Placeholder_Logo.png"
+      }
+        {
+        "company": "Lenovo",
+        "role": "Corporate trainer",
+        "date": "May, 2025 - May, 2025",
+        "responsibilities": [
+          "Pivot tables and Pivot charts",
+          "Advanced Excel"
+                  ],
+        "logo": "assets/logos/Placeholder_Logo.png",
+        "logo_dark": "assets/logos/Placeholder_Logo.png"
+      }
+        {
+        "company": "TCS",
+        "role": "cloud consultant",
+        "date": "May, 2025 - May, 2025",
+        "responsibilities": [
+          "Enabling database administrators to migrate to AWS RDS Aurora",
+          "AWS RDS Aurora ",
+          "MySQL ",
+          "PostgreSQL"
+        ],
+        "logo": "assets/logos/Placeholder_Logo.png",
+        "logo_dark": "assets/logos/Placeholder_Logo.png"
+      }
+        {
+        "company": "SRMIT",
+        "role": "Corporate trainer",
+        "date": "April-June 2025",
+        "responsibilities": [
+          " training on Docker & Kubernetes",
+          "AWS DevOps",
+          "AWS CloudWatch",
+          "AWS CloudTrail",
+          "AWS CloudFormation",
+          "AWS Storage Gateway",
+          "Terraform"
+         
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
@@ -81,10 +130,11 @@
       {
         "name": "Programming Languages & Technologies",
         "items": [
-          "JavaScript",
           "Python",
           "Java",
-          "TypeScript"
+           "AWS",
+          "Google Cloud",
+          "Microsoft Azure"
         ]
       },
       {
@@ -92,18 +142,20 @@
         "items": [
           "Git",
           "GitHub",
+          "GitHub Copilot",
+          "Amazon Q Developer",
+          "Claude AI",
+          "openAI API"
           "VS Code",
-          "AWS",
-          "Google Cloud",
-          "Microsoft Azure",
-          "MySQL"
+          "MySQL",
+          "PostgreSQL"
         ]
       },
       {
         "name": "Certifications",
         "items": [
           {
-            "name": "Add your certification name here",
+            "name": "AWS Solution Architect Associate, Google Associate Cloud Engineer, AWS AI Practitioner",
             "url": "https://www.credly.com/users/sunil-kumar.971a054e"
           },
           "https://www.credly.com/users/sunil-kumar.971a054e"
