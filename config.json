@@ -8,11 +8,11 @@
   },
   "site": {
     "title": "sunilkumarald",
-    "description": "Developer Portfolio",
+    "description": "Cloud Consultant & Corporate trainer Portfolio",
     "seo": {
-      "title": "sunilkumarald - Developer Portfolio",
-      "description": "Developer Portfolio of sunilkumarald",
-      "keywords": "developer, portfolio, github",
+      "title": "sunilkumarald - Cloud Consultant & Corporate trainer Portfolio",
+      "description": "Cloud Consultant & Corporate trainer of sunilkumarald",
+      "keywords": "corporate, training, cloud, developer, portfolio, github",
       "author": "sunilkumarald",
       "og_image": "https://avatars.githubusercontent.com/sunilkumarald",
       "twitter_card": "summary_large_image",
@@ -21,7 +21,7 @@
   },
   "header": {
     "greeting": "sunilkumarald",
-    "tagline": "Developer and Creator."
+    "tagline": "Cloud Consultant and Corporate Trainer."
   },
   "social_links": [
     {
@@ -34,7 +34,7 @@
   "github_username": "sunilkumarald",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
+      "Welcome to my portfolio! I'm passionate about cloud consulting, corporate training and tech events",
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
@@ -61,14 +61,14 @@
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
+        "company": "Cloudmasters",
+        "role": "Independent cloud consultant",
         "date": "Start Date - Present",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Enabling people on cloud technologies",
+          "AWS, Google Cloud, Microsoft Azure, HitHub copilot ",
+          "AI in development and training, ",
+          "Training and consulting"
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
@@ -93,7 +93,10 @@
           "Git",
           "GitHub",
           "VS Code",
-          "Docker"
+          "AWS",
+          "Google Cloud",
+          "Microsoft Azure",
+          "MySQL"
         ]
       },
       {
@@ -101,9 +104,9 @@
         "items": [
           {
             "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
+            "url": "https://www.credly.com/users/sunil-kumar.971a054e"
           },
-          "You can also add certifications without links"
+          "https://www.credly.com/users/sunil-kumar.971a054e"
         ]
       }
     ]
