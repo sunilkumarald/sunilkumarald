@@ -4,7 +4,7 @@
   
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://sunilkumarald.github.io/sunilkumarald)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/sunilkumarald)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](undefined)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cloudwithsunil/))
 
 </div>
 
@@ -40,6 +40,7 @@ Let's connect and build something amazing together!
 - 🔗 **LinkedIn**:[https://www.linkedin.com/in/cloudwithsunil/](https://www.linkedin.com/in/cloudwithsunil/)
 -  **YouTube**: [https://www.youtube.com/@sunilkumarOnCloud](https://www.youtube.com/@sunilkumarOnCloud)
  **Blog**: [https://medium.com/@suniel.vns](https://medium.com/@suniel.vns)
+   **Website** [https://cloudascends.com/](https://cloudascends.com/)
 ---
 
-*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
+*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio)*
