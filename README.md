@@ -42,19 +42,19 @@ LinkedIn Official event handle mention:
 
 
 <div align="left">
-    <img src="./Images/Publicspeaking/scd1.jpg" width="450px">  
+    <img src="./Images/publicspeaking/scd1.jpg" width="450px">  
 </div>
 
 <div align="left">
-    <img src="./Images/PublicSpeaking/scd2.jpg" width="450px">  
+    <img src="./Images/publicSpeaking/scd2.jpg" width="450px">  
 </div>
 </br>
 <div align="left">
-    <img src="./Images/PublicSpeaking/scd3.jpg" width="450px">  
+    <img src="./Images/publicSpeaking/scd3.jpg" width="450px">  
 </div>
 </br>
 <div align="left">
-    <img src="./Images/PublicSpeaking/scd4.jpg" width="450px">  
+    <img src="./Images/publicSpeaking/scd4.jpg" width="450px">  
 </div>
 </br>
 
@@ -71,18 +71,18 @@ LinkedIn Official event handle mention: [AWS User Group Yaounde](https://www.lin
 [Women innovating with cloud in Africa linkedin handle mention](https://www.linkedin.com/posts/women-innovating-with-cloud_awschallenge-wica-womenincloud-activity-7383430930524372992-RRDA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
  
 <div align="left">
-    <img src="./Images/Publicspeaking/augy1.jpg" width="450px">  
+    <img src="./Images/publicspeaking/augy1.jpg" width="450px">  
 </div>
 </br>
 
 <div align="left">
-    <img src="./Images/Publicspeaking/augy2.jpg" width="450px">  
+    <img src="./Images/publicspeaking/augy2.jpg" width="450px">  
 </div>
 <div align="left">
-    <img src="./Images/Publicspeaking/augy3.jpeg" width="450px">  
+    <img src="./Images/publicspeaking/augy3.jpeg" width="450px">  
 </div>
 <div align="left">
-    <img src="./Images/Publicspeaking/augy4.jpg" width="450px">  
+    <img src="./Images/publicspeaking/augy4.jpg" width="450px">  
 </div>
 
 </br>
@@ -94,11 +94,11 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 [Hasicorp UG Bangalore LinkedIn Official event handle mention]:(https://www.linkedin.com/posts/hug-bangalore_hugbangalore-hashicorp-hashicorpusergroup-activity-7389685180694818816-ExXq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 <div align="left">
-    <img src="./Images/Publicspeaking/hug1.jpg" width="450px">  
+    <img src="./Images/publicspeaking/hug1.jpg" width="450px">  
 </div>
 
 <div align="left">
-    <img src="./Images/Publicspeaking/hug2.jpg" width="450px">  
+    <img src="./Images/publicspeaking/hug2.jpg" width="450px">  
 </div>
 </br>
 
