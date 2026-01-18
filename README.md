@@ -123,15 +123,72 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 ## 4. Title: Speaker at AWS Orientation, Date: 12th August 2025
  I had the privilege of delivering an "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻" session to enthusiastic 2nd and 3rd-year B.Tech students specializing in Artificial Intelligence and Data Science at Adhiyamaan College of Engineering, Hosur, Tamil Nadu, India.
 [LinkedIn post](https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
-
+<div align="left">
+    <img src="./Images/publicspeaking/ao1.jpg" width="450px">  
+</div>
+<div align="left">
+    <img src="./Images/publicspeaking/ao2.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
+    <img src="./Images/publicspeaking/ao3.jpg" width="450px">  
+</div>
+<br>
+ 
 
 ## 5. Title: Speaker at AWS Ignite event, Date: 15th February 2025
 I took a virtual session on AWS ML services and had a hands-on demo on the following services:✅ Amazon Comprehend✅ Amazon Textract✅ Amazon Translate✅ Amazon Transcribe
 ✅ Amazon Polly 
+<div align="left">
+    <img src="./Images/publicspeaking/awsignite1.jpg" width="450px">  
+</div>
+<br>
+<div align="left">
+    <img src="./Images/publicspeaking/awsignite2.jpg" width="450px">  
+</div>
+<br>
+<div align="left">
+    <img src="./Images/publicspeaking/awsignite3.jpg" width="450px">  
+</div>
+<br>
+
 [LinkedIn mention](https://www.linkedin.com/posts/learn-2-upskill_aws-awsai-ai-activity-7295275375104794624-J7Hx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 [LinkedIn post](https://www.linkedin.com/posts/iamswetha7_aws-machinelearning-ai-ugcPost-7296541127984230400-Lvu3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+## 6. Title: Speaker at TechNexus Skill-up India , Date: 19th october 2025
 
+Took a session for AI-900 certification for the TechNexus community.
+<div align="left">
+    <img src="./Images/publicspeaking/ai900_1.jpg" width="450px">  
+</div>
+<br>
+<div align="left">
+    <img src="./Images/publicspeaking/ai900_2.jpg" width="450px">  
+</div>
+<br>
+<div align="left">
+    <img src="./Images/publicspeaking/ai900_3.jpg" width="450px">  
+</div>
+<br>
+<div align="left">
+    <img src="./Images/publicspeaking/ai900_4.jpg" width="450px">  
+</div>
+<br>
+
+## 7. Title: Speaker at college event, Date: 15th October 2025
+Took a hands-on session for Github Copilot  code assisting tool demo.
+<div align="left">
+    <img src="./Images/publicspeaking/gp1.jpg" width="450px">  
+</div>
+<br>
+<div align="left">
+    <img src="./Images/publicspeaking/gp2.jpg" width="450px">  
+</div>
+<br>
+<div align="left">
+    <img src="./Images/publicspeaking/gp3.jpg" width="450px">  
+</div>
+<br>
 
 ## 📝 Read my insights: [Medium Blog](https://medium.com/@suniel.vns)
 </div>
