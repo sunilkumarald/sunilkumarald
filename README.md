@@ -145,16 +145,17 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
  
 
 ## 5. Title: Speaker at AWS Ignite event, Date: 15th February 2025
-I took a virtual session on AWS ML services and had a hands-on demo on the following services:✅ Amazon Comprehend✅ Amazon Textract✅ Amazon Translate✅ Amazon Transcribe
-✅ Amazon Polly 
+I took a virtual session on AWS ML services and had a hands-on demo on the following services: Amazon Comprehend, Amazon Textract, Amazon Translate, Amazon Transcribe, and Amazon Polly. 
 <div align="left">
-    <img src="./Images/publicspeaking/awsignite1.png" width="450px">  
+            <img src="./Images/publicspeaking/awsignite1.png" width="450px">  
 </div>
 <br>
+
 <div align="left">
     <img src="./Images/publicspeaking/awsignite2.jpg" width="450px">  
 </div>
 <br>
+
 <div align="left">
     <img src="./Images/publicspeaking/awsignite3.jpg" width="450px">  
 </div>
