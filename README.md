@@ -5,16 +5,16 @@
 </div>
 
 ## ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me:
-- 👨🏻‍💻 I am a **Corporate trainer**,Working independently, at Bengaluru, India** <br>
-- 🎢 With over 17 years of dedicated teaching and training experience in academics andthe  corporate. I bring a wealth of knowledge to the table.
-- 📚 I believe in continuous upskilling with expanding expertise in cloud technologies
-- 👨🏻‍🏫 Beyond my day-to-day responsibilities, I'm passionate about knowledge sharing. I've had the privilege of serving as a speaker, delivering tech talks at AWS User Groups and meet-ups
-- ✍️ Technical content creator and writing articles on Medium and LinkedIn <br>
+- 👨🏻‍💻 I am a **Corporate trainer and consultant**,working independently and based out of Bengaluru, India<br>
+- 🎢 With over 17 years of dedicated teaching and training experience in academics and in the  corporate sector. I bring a wealth of training experience and expertise in cloud technologies to the table.
+- 📚 I believe in continuous learning and upskilling.
+- 👨🏻‍🏫 Beyond my day-to-day responsibilities, I'm passionate about knowledge sharing with the community. I've had the privilege of serving as a speaker, delivering tech talks at various community events, including AWS User Groups, AWS Student Community Days, and other cloud and DevOps meet-ups.
+- ✍️ I am a Technical content creator and write articles on Medium and LinkedIn <br>
         ↪ https://medium.com/@suniel.vns<br>
 - 👷 Volunteer<br>
         ↪ Active member of AWS User Group Bengaluru, AWS User Group Madurai(AWS UG Community)
 - 💬 
-- 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
+- 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful conversations about the future of technology and its impact on our world.
 - 📧 You can reach me at suniel.vns@gmail.com or via LinkedIn @ [https://www.linkedin.com/in/cloudwithsunil/]
 - My YouTube channel: https://www.youtube.com/@sunilkumarOnCloud
 - My Medium blog post:https://medium.com/@suniel.vns
@@ -22,10 +22,9 @@
 
 ## Public Speaking Posts:
 
-## 1. Speaker at AWS Student Community Day - South TN, Organised by AWS Cloud Club, Date: 25th October 2025
+## 1. Title: Speaker at AWS Student Community Day - South TN, India, Organised by AWS Cloud Clubs, Date: 25th October 2025
 
 Speaker at AWS Student Community Day - South TN and delivered a presentation on  **Simplifying database management with Amazon RDS and Aurora** for more than 300+ student audience at PSNA College of Engineering and Technology, Dindigul. The Session focused on the Amazon RDS database and RDS Aurora. I shared how these managed database services simplify provisioning, scaling, and maintenance — allowing developers and enterprises to focus on innovation instead of infrastructure. I also discussed best practices for performance, reliability, and cost optimization when running databases in the cloud. Using  hands-on, I demonstrated an Amazon RDS database instance connected with an Amazon EC2 instance.
-
 With real-world examples and practical guidance, this session empowered students to understand how AWS simplifies database operations while ensuring security, automation, and high availability.
 
 This event was organised by 
@@ -58,15 +57,15 @@ LinkedIn Official event handle mention:
 </div>
 </br>
 
-## 2. Speaker at 12-week AWS Workshop challenge, organised by AWS User Group Yaounde, Date: 11th October, 2025
+## 2. Title: Speaker at 12-Week AWS Workshop challenge, organised by AWS User Group Yaounde, Date: 11th October, 2025
 
-Speaker at 12-week AWS workshop challenge and delivered a virtual presentation on **AWS Compute services-EC2 mastery**. In this session, we dived into AWS Compute Services and Amazon Elastic Compute Cloud (EC2) — the powerhouse behind scalable cloud computing. 
+Speaker at The 12-Week AWS workshop challenge and delivered a virtual presentation on **AWS Compute services-EC2 mastery**. In this session, I dived into AWS Compute Services and Amazon Elastic Compute Cloud (EC2) — the powerhouse behind scalable cloud computing. 
 
 Presentation Material: [AWS Compute services- EC2 mastery:(pdf)](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf)
 
-Session Recording link, pl watch from timestamp 02:17: [(https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)]
+Session Recording link, please watch from timestamp 02:17: [(https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)]
 
-LinkedIn Official event handle mention: [AWS User Group Yaounde](https://www.linkedin.com/posts/aws-user-group-yaounde_aws-cloud-devops-activity-7381255029208342531-ZkFx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+AWS User Group Yaounde LinkedIn Official event handle mention: [AWS User Group Yaounde](https://www.linkedin.com/posts/aws-user-group-yaounde_aws-cloud-devops-activity-7381255029208342531-ZkFx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 [Women innovating with cloud in Africa linkedin handle mention](https://www.linkedin.com/posts/women-innovating-with-cloud_awschallenge-wica-womenincloud-activity-7383430930524372992-RRDA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
  
@@ -113,15 +112,12 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 <div align="left">
     <img src="./Images/publicspeaking/hug5.jpg" width="450px">  
 </div>
-</br>
-<div align="left">
-    <img src="./Images/publicspeaking/hug6.jpg" width="450px">  
-</div>
+
 </br>
 
 
 ## 4. Title: Speaker at AWS Orientation, Date: 12th August 2025
- I had the privilege of delivering an "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻" session to enthusiastic 2nd and 3rd-year B.Tech students specializing in Artificial Intelligence and Data Science at Adhiyamaan College of Engineering, Hosur, Tamil Nadu, India.
+ I had the privilege of delivering an "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻" session to cloud enthusiasts 2nd and 3rd-year B.Tech students specializing in Artificial Intelligence and Data Science at Adhiyamaan College of Engineering, Hosur, Tamil Nadu, India.
 [LinkedIn post](https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 <div align="left">
     <img src="./Images/publicspeaking/ao1.jpg" width="450px">  
@@ -132,6 +128,14 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 </br>
 <div align="left">
     <img src="./Images/publicspeaking/ao3.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
+    <img src="./Images/publicspeaking/ao4.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
+    <img src="./Images/publicspeaking/ao5.jpg" width="450px">  
 </div>
 <br>
  
@@ -155,19 +159,19 @@ I took a virtual session on AWS ML services and had a hands-on demo on the follo
 [LinkedIn mention](https://www.linkedin.com/posts/learn-2-upskill_aws-awsai-ai-activity-7295275375104794624-J7Hx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 [LinkedIn post](https://www.linkedin.com/posts/iamswetha7_aws-machinelearning-ai-ugcPost-7296541127984230400-Lvu3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
-## 6. Title: Speaker at TechNexus Skill-up India , Date: 19th october 2025
+## 6. Title: Speaker at TechNexus Skill-up India, Date: 19th October 2025
 
-Took a session for AI-900 certification for the TechNexus community.
+Took a session for the AI-900 certification for the TechNexus community.
 <div align="left">
     <img src="./Images/publicspeaking/ai900_1.jpg" width="450px">  
 </div>
 <br>
 <div align="left">
-    <img src="./Images/publicspeaking/ai900_2.jpg" width="450px">  
+    <img src="./Images/publicspeaking/ai900_2.png" width="450px">  
 </div>
 <br>
 <div align="left">
-    <img src="./Images/publicspeaking/ai900_3.jpg" width="450px">  
+    <img src="./Images/publicspeaking/ai900_3.png" width="450px">  
 </div>
 <br>
 <div align="left">
@@ -176,7 +180,8 @@ Took a session for AI-900 certification for the TechNexus community.
 <br>
 
 ## 7. Title: Speaker at college event, Date: 15th October 2025
-Took a hands-on session for Github Copilot  code assisting tool demo.
+I had the privilege of delivering an expert talk on "𝗚𝗶𝘁𝗛𝘂𝗯 𝗖𝗼𝗽𝗶𝗹𝗼𝘁: 𝗔𝗜-𝗗𝗿𝗶𝘃𝗲𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 to students and faculty members at CMR Institute of Technology, Bangalore, India on October 15th, 2025.
+[LinkedIn post](https://www.linkedin.com/posts/cloudwithsunil_githubcopilot-aidrivensoftwaredevelopment-activity-7384797438152249344-TWpP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 <div align="left">
     <img src="./Images/publicspeaking/gp1.jpg" width="450px">  
 </div>
@@ -200,11 +205,11 @@ Took a hands-on session for Github Copilot  code assisting tool demo.
 
 ### 🌐 Cloudops
 
-- [How does AWS keep the meters running?]([https://medium.com/@srinivasan.cloudarchitect/aws-vpc-lattice-a-smarter-alternative-to-transit-gateway-and-vpc-peering-part-1-74a268f3cb7b](https://medium.com/@suniel.vns/how-does-aws-keep-the-meters-running-2e36e5381d8c))
+- [How does AWS keep the meters running?](https://medium.com/@suniel.vns/how-does-aws-keep-the-meters-running-2e36e5381d8c)
 
-- [My Journey to AWS Solutions Architect Associate Certification: A Roadmap for Success]([https://medium.com/@srinivasan.cloudarchitect/aws-vpc-lattice-a-smarter-alternative-to-transit-gateway-and-vpc-peering-deepdive-89f2f1e3afeb](https://medium.com/@suniel.vns/my-journey-to-aws-solutions-architect-associate-certification-a-roadmap-for-success-4c8c22f81b26))
+- [My Journey to AWS Solutions Architect Associate Certification: A Roadmap for Success](https://medium.com/@suniel.vns/my-journey-to-aws-solutions-architect-associate-certification-a-roadmap-for-success-4c8c22f81b26))
 
-  ## Other technical posts
+  ## Multi-cloud technical posts
 
   [Azure Data Fundamentals (DP-900) Exam Preparation Guide: How I Passed and What I Learned](https://medium.com/@suniel.vns/i-just-passed-the-microsoft-azure-data-fundamentals-dp-900-exam-heres-my-learning-journey-8c1122581d7f)
   </br>
@@ -222,19 +227,26 @@ Took a hands-on session for Github Copilot  code assisting tool demo.
   </br>
   [Building Reusable Infrastructure with Terraform Modules](https://medium.com/@suniel.vns/building-reusable-infrastructure-with-terraform-modules-9228e89e826c)
 
-## 📝 My YouTube videos: [Medium Blog](https://medium.com/@suniel.vns)
+## 📝 [My YouTube videos]:(https://www.youtube.com/@sunilkumarOnCloud)
+
 [AWS mult-session support](https://www.youtube.com/watch?v=_5qahn-PzAI)
+
 </br>
-[Hands-on experience with Amazon RDS for beginners | Amazon RDS demonstration for beginners](https://youtu.be/1n1KmfP7vIk?si=4_wTZk_4IHE_q01)
+[Hands-on experience with Amazon RDS for beginners | Amazon RDS demonstration for beginners] (https://youtu.be/1n1KmfP7vIk?si=4_wTZk_4IHE_q01)
 
 
-## 📚 Certifications Achieved:  
-I'm 3x AWS Certified.
+## 📚 My Certifications Achieved:  
+I'm 7x Cloud Certified.
 1. AWS Solution Architect Associate
 2. AWS AI Practitioner
-3. AWS Cloud Certified Practitioner 
+3. AWS Cloud Certified Practitioner
+4. Google cloud Asscoiate cloud engineer
+5. Microsoft Data Fundamentals
+6. Oracle Cloud Genenerative AI professional
+7. Oracle Cloud Generative AI Associate
 
 ## 📚 Certifications In Progress: 
 I am preparing for :
 1. AWS Developer Associate
 2. AWS CloudOps Associate
+3. Google Cloud Architect Professional
