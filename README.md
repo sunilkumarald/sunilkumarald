@@ -44,17 +44,17 @@ LinkedIn Official event handle mention:
 <div align="left">
     <img src="./Images/publicspeaking/scd1.jpg" width="450px">  
 </div>
-
+</br>
 <div align="left">
-    <img src="./Images/publicSpeaking/scd2.jpg" width="450px">  
+    <img src="./Images/publicspeaking/scd2.jpg" width="450px">  
 </div>
 </br>
 <div align="left">
-    <img src="./Images/publicSpeaking/scd3.jpg" width="450px">  
+    <img src="./Images/publicspeaking/scd3.jpg" width="450px">  
 </div>
 </br>
 <div align="left">
-    <img src="./Images/publicSpeaking/scd4.jpg" width="450px">  
+    <img src="./Images/publicspeaking/scd4.jpg" width="450px">  
 </div>
 </br>
 
@@ -78,13 +78,14 @@ LinkedIn Official event handle mention: [AWS User Group Yaounde](https://www.lin
 <div align="left">
     <img src="./Images/publicspeaking/augy2.jpg" width="450px">  
 </div>
+</br>
 <div align="left">
     <img src="./Images/publicspeaking/augy3.jpeg" width="450px">  
 </div>
+</br>
 <div align="left">
     <img src="./Images/publicspeaking/augy4.jpg" width="450px">  
 </div>
-
 </br>
 
 ## 3. Title: Speaker at Hashicorp User Group Bangalore Meetup #1, Date: 2nd November 2025
@@ -96,9 +97,25 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 <div align="left">
     <img src="./Images/publicspeaking/hug1.jpg" width="450px">  
 </div>
-
+</br>
 <div align="left">
     <img src="./Images/publicspeaking/hug2.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
+    <img src="./Images/publicspeaking/hug3.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
+    <img src="./Images/publicspeaking/hug4.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
+    <img src="./Images/publicspeaking/hug5.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
+    <img src="./Images/publicspeaking/hug6.jpg" width="450px">  
 </div>
 </br>
 
@@ -133,16 +150,24 @@ I took a virtual session on AWS ML services and had a hands-on demo on the follo
   ## Other technical posts
 
   [Azure Data Fundamentals (DP-900) Exam Preparation Guide: How I Passed and What I Learned](https://medium.com/@suniel.vns/i-just-passed-the-microsoft-azure-data-fundamentals-dp-900-exam-heres-my-learning-journey-8c1122581d7f)
+  </br>
   [How to Create IAM Users in Google Cloud Platform](https://medium.com/google-cloud/how-to-create-iam-users-in-google-cloud-platform-03ecb2d56ddb)
+  </br>
   [How to host a free static website using Firebase](https://medium.com/google-cloud/how-to-host-a-free-static-website-using-firebase-0a8da3671f22)
+  </br>
   [Quickstart with Gemini cli](https://medium.com/google-cloud/quickstart-with-gemini-cli-17fa55228b44)
+  </br>
   [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗲𝗮𝗻𝗶𝗻𝗴𝗳𝘂𝗹 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀-𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗠𝗩𝗣 𝗣𝗿𝗼𝗴𝗿𝗮𝗺](https://medium.com/@suniel.vns/-f1c8250453c4)
+  </br>
   [How I aced Google Associate Cloud Engineer Certification?](https://medium.com/@suniel.vns/how-i-aced-google-associate-cloud-engineer-certification-a19ec12a89e6)
+  </br>
   [How I scored 1000/1000 score in AWS Certified Cloud Practitioner](https://medium.com/@suniel.vns/how-i-scored-1000-1000-score-in-aws-certified-cloud-practitioner-4a466b13ec6f)
+  </br>
   [Building Reusable Infrastructure with Terraform Modules](https://medium.com/@suniel.vns/building-reusable-infrastructure-with-terraform-modules-9228e89e826c)
 
 ## 📝 My YouTube videos: [Medium Blog](https://medium.com/@suniel.vns)
 [AWS mult-session support](https://www.youtube.com/watch?v=_5qahn-PzAI)
+</br>
 [Hands-on experience with Amazon RDS for beginners | Amazon RDS demonstration for beginners](https://youtu.be/1n1KmfP7vIk?si=4_wTZk_4IHE_q01)
 
 
