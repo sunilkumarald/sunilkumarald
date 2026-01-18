@@ -1,101 +1,30 @@
-# sunilkumarald - Cloud Consultant and Corporate Trainer
-
-<div align="left">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://sunilkumarald.github.io/sunilkumarald)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/sunilkumarald)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cloudwithsunil/))
-</div>
-
-The live portfolio includes detailed professional experience, technical skills and certifications, featured projects, and achievements.
-
-## 📈 GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilkumarald&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarald&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🤝 Connect
-
-Let's connect and build something amazing together!
-
-- 🌐 **Portfolio**: [https://sunilkumarald.github.io/sunilkumarald](https://sunilkumarald.github.io/sunilkumarald)
-- 💻 **GitHub**: [https://github.com/sunilkumarald](https://github.com/sunilkumarald)
-- 🔗 **LinkedIn**:[https://www.linkedin.com/in/cloudwithsunil/](https://www.linkedin.com/in/cloudwithsunil/)
--  **YouTube**: [https://www.youtube.com/@sunilkumarOnCloud](https://www.youtube.com/@sunilkumarOnCloud)
- **Medium_Blog**: [https://medium.com/@suniel.vns](https://medium.com/@suniel.vns)
-  
-# sunilkumarald - Cloud Consultant and Corporate Trainer Portfolio
-
-<div align="left">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://sunilkumarald.github.io/sunilkumarald)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/sunilkumarald)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/cloudwithsunil/))
-</div>
-
-The live portfolio includes detailed professional experience, technical skills and certifications, featured projects, and achievements.
-
-## 📈 GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilkumarald&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarald&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🤝 Connect
-
-Let's connect and build something amazing together!
-
-- 🌐 **Portfolio**: [https://sunilkumarald.github.io/sunilkumarald](https://sunilkumarald.github.io/sunilkumarald)
-- 💻 **GitHub**: [https://github.com/sunilkumarald](https://github.com/sunilkumarald)
-- 🔗 **LinkedIn**:[https://www.linkedin.com/in/cloudwithsunil/](https://www.linkedin.com/in/cloudwithsunil/)
--  **YouTube**: [https://www.youtube.com/@sunilkumarOnCloud](https://www.youtube.com/@sunilkumarOnCloud)
- **Medium_Blog**: [https://medium.com/@suniel.vns](https://medium.com/@suniel.vns)
-   **Website** [https://cloudascends.com/](https://cloudascends.com/)
-   
-<!---
-## About Me:
-- 👨🏻‍💻 I am a cloud trainer and consultant
-- 🎢 With over 17+ years of dedicated training experience, I bring a wealth of cloud experience coupled with strong analytical and technical leadership skills to the table.
-- 📚 I strongly believe in continuous upskilling and learning in public.
-- ☁️ Passionate about explaining cloud computing and DevOps concepts
-- 📬 You could reach me on LinkedIn @ [Sunil Kumar](https://www.linkedin.com/in/cloudwithsunil/)
--->
-<div id="header" align="Center">
-
 # 👋 Hi, I'm Sunil Kumar
 
-## ☁️🏗️ Cloud Trainer | AWS | Databases| DevOps
+## ☁️🏗️ Corporate Trainer | Cloud |AWS | Databases| DevOps
 
 </div>
 
 ## ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me:
-- 👨🏻‍💻 I am a **Cloud trainer**, Working independently, at Bengaluru, India** <br>
-- 🎢 With over 17 years of dedicated training experience, I bring a wealth of experience coupled with strong analytical and technical leadership skills to the table
-- 📚 Believes in continuous upskilling with expanding expertise in cloud technologies
+- 👨🏻‍💻 I am a **Corporate trainer**,Working independently, at Bengaluru, India** <br>
+- 🎢 With over 17 years of dedicated teaching and training experience in academics andthe  corporate. I bring a wealth of knowledge to the table.
+- 📚 I believe in continuous upskilling with expanding expertise in cloud technologies
 - 👨🏻‍🏫 Beyond my day-to-day responsibilities, I'm passionate about knowledge sharing. I've had the privilege of serving as a speaker, delivering tech talks at AWS User Groups and meet-ups
-- ✍️ Technical content creator and writing articles on blogging websites<br>
+- ✍️ Technical content creator and writing articles on Medium and LinkedIn <br>
         ↪ https://medium.com/@suniel.vns<br>
 - 👷 Volunteer<br>
         ↪ Active member of AWS User Group Bengaluru, AWS User Group Madurai(AWS UG Community)
 - 💬 
 - 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful discussions about the future of technology and its impact on our world.
 - 📧 You can reach me at suniel.vns@gmail.com or via LinkedIn @ [https://www.linkedin.com/in/cloudwithsunil/]
+- My YouTube channel: https://www.youtube.com/@sunilkumarOnCloud
+- My Medium blog post:https://medium.com/@suniel.vns
 
 
-# Public Speaking Posts:
+## Public Speaking Posts:
 
 ## 1. Speaker at AWS Student Community Day - South TN, Organised by AWS Cloud Club, Date: 25th October 2025
 
-Speaker at AWS Student Community Day - South TN and delivered a presentation on  **Simplifying database management with Amazon RDS and Aurora** for more than 300+ student audience at PSNA College of Engineering and Technology, Dindigul. The Session focused on Amazon RDS database and RDS Aurora. I shared how these managed database services simplify provisioning, scaling, and maintenance — allowing developers and enterprises to focus on innovation instead of infrastructure. I also discussed best practices for performance, reliability, and cost optimization when running databases in the cloud. Using  hands-on, I demonstrated an Amazon RDS database instance connected with Amazon EC2 instance.
+Speaker at AWS Student Community Day - South TN and delivered a presentation on  **Simplifying database management with Amazon RDS and Aurora** for more than 300+ student audience at PSNA College of Engineering and Technology, Dindigul. The Session focused on the Amazon RDS database and RDS Aurora. I shared how these managed database services simplify provisioning, scaling, and maintenance — allowing developers and enterprises to focus on innovation instead of infrastructure. I also discussed best practices for performance, reliability, and cost optimization when running databases in the cloud. Using  hands-on, I demonstrated an Amazon RDS database instance connected with an Amazon EC2 instance.
 
 With real-world examples and practical guidance, this session empowered students to understand how AWS simplifies database operations while ensuring security, automation, and high availability.
 
@@ -113,19 +42,19 @@ LinkedIn Official event handle mention:
 
 
 <div align="left">
-    <img src="./Images/Publicspeaking/scd1.jpeg" width="450px">  
+    <img src="./Images/Publicspeaking/scd1.jpg" width="450px">  
 </div>
 
 <div align="left">
-    <img src="./Images/PublicSpeaking/scd2.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/scd2.jpg" width="450px">  
 </div>
 </br>
 <div align="left">
-    <img src="./Images/PublicSpeaking/scd3.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/scd3.jpg" width="450px">  
 </div>
 </br>
 <div align="left">
-    <img src="./Images/PublicSpeaking/scd4.jpeg" width="450px">  
+    <img src="./Images/PublicSpeaking/scd4.jpg" width="450px">  
 </div>
 </br>
 
@@ -138,21 +67,22 @@ Presentation Material: [AWS Compute services- EC2 mastery:(pdf)](https://github.
 Session Recording link, pl watch from timestamp 02:17: [(https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)]
 
 LinkedIn Official event handle mention: [AWS User Group Yaounde](https://www.linkedin.com/posts/aws-user-group-yaounde_aws-cloud-devops-activity-7381255029208342531-ZkFx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+
 [Women innovating with cloud in Africa linkedin handle mention](https://www.linkedin.com/posts/women-innovating-with-cloud_awschallenge-wica-womenincloud-activity-7383430930524372992-RRDA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
  
 <div align="left">
-    <img src="./Images/Publicspeaking/augy1.jpeg" width="450px">  
+    <img src="./Images/Publicspeaking/augy1.jpg" width="450px">  
 </div>
 </br>
 
 <div align="left">
-    <img src="./Images/Publicspeaking/augy2.jpeg" width="450px">  
+    <img src="./Images/Publicspeaking/augy2.jpg" width="450px">  
 </div>
 <div align="left">
     <img src="./Images/Publicspeaking/augy3.jpeg" width="450px">  
 </div>
 <div align="left">
-    <img src="./Images/Publicspeaking/augy4.jpeg" width="450px">  
+    <img src="./Images/Publicspeaking/augy4.jpg" width="450px">  
 </div>
 
 </br>
@@ -164,11 +94,11 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 [Hasicorp UG Bangalore LinkedIn Official event handle mention]:(https://www.linkedin.com/posts/hug-bangalore_hugbangalore-hashicorp-hashicorpusergroup-activity-7389685180694818816-ExXq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 <div align="left">
-    <img src="./Images/Publicspeaking/hug1.jpeg" width="450px">  
+    <img src="./Images/Publicspeaking/hug1.jpg" width="450px">  
 </div>
 
 <div align="left">
-    <img src="./Images/Publicspeaking/hug2.jpeg" width="450px">  
+    <img src="./Images/Publicspeaking/hug2.jpg" width="450px">  
 </div>
 </br>
 
@@ -186,9 +116,6 @@ I took a virtual session on AWS ML services and had a hands-on demo on the follo
 [LinkedIn post](https://www.linkedin.com/posts/iamswetha7_aws-machinelearning-ai-ugcPost-7296541127984230400-Lvu3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 
-
-
-
 ## 📝 Read my insights: [Medium Blog](https://medium.com/@suniel.vns)
 </div>
 
@@ -203,8 +130,21 @@ I took a virtual session on AWS ML services and had a hands-on demo on the follo
 
 - [My Journey to AWS Solutions Architect Associate Certification: A Roadmap for Success]([https://medium.com/@srinivasan.cloudarchitect/aws-vpc-lattice-a-smarter-alternative-to-transit-gateway-and-vpc-peering-deepdive-89f2f1e3afeb](https://medium.com/@suniel.vns/my-journey-to-aws-solutions-architect-associate-certification-a-roadmap-for-success-4c8c22f81b26))
 
+  ## Other technical posts
+
+  [Azure Data Fundamentals (DP-900) Exam Preparation Guide: How I Passed and What I Learned](https://medium.com/@suniel.vns/i-just-passed-the-microsoft-azure-data-fundamentals-dp-900-exam-heres-my-learning-journey-8c1122581d7f)
+  [How to Create IAM Users in Google Cloud Platform](https://medium.com/google-cloud/how-to-create-iam-users-in-google-cloud-platform-03ecb2d56ddb)
+  [How to host a free static website using Firebase](https://medium.com/google-cloud/how-to-host-a-free-static-website-using-firebase-0a8da3671f22)
+  [Quickstart with Gemini cli](https://medium.com/google-cloud/quickstart-with-gemini-cli-17fa55228b44)
+  [𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗠𝗲𝗮𝗻𝗶𝗻𝗴𝗳𝘂𝗹 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀-𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗠𝗩𝗣 𝗣𝗿𝗼𝗴𝗿𝗮𝗺](https://medium.com/@suniel.vns/-f1c8250453c4)
+  [How I aced Google Associate Cloud Engineer Certification?](https://medium.com/@suniel.vns/how-i-aced-google-associate-cloud-engineer-certification-a19ec12a89e6)
+  [How I scored 1000/1000 score in AWS Certified Cloud Practitioner](https://medium.com/@suniel.vns/how-i-scored-1000-1000-score-in-aws-certified-cloud-practitioner-4a466b13ec6f)
+  [Building Reusable Infrastructure with Terraform Modules](https://medium.com/@suniel.vns/building-reusable-infrastructure-with-terraform-modules-9228e89e826c)
+
 ## 📝 My YouTube videos: [Medium Blog](https://medium.com/@suniel.vns)
-[AWS mult-session support]https://www.youtube.com/watch?v=_5qahn-PzAI
+[AWS mult-session support](https://www.youtube.com/watch?v=_5qahn-PzAI)
+[Hands-on experience with Amazon RDS for beginners | Amazon RDS demonstration for beginners](https://youtu.be/1n1KmfP7vIk?si=4_wTZk_4IHE_q01)
+
 
 ## 📚 Certifications Achieved:  
 I'm 3x AWS Certified.
