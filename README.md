@@ -94,6 +94,10 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 [Hasicorp UG Bangalore LinkedIn Official event handle mention]:(https://www.linkedin.com/posts/hug-bangalore_hugbangalore-hashicorp-hashicorpusergroup-activity-7389685180694818816-ExXq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 <div align="left">
+    <img src="./Images/publicspeaking/HUG.jpg" width="450px">  
+</div>
+</br>
+<div align="left">
     <img src="./Images/publicspeaking/hug1.jpg" width="450px">  
 </div>
 </br>
@@ -144,7 +148,7 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 I took a virtual session on AWS ML services and had a hands-on demo on the following services:✅ Amazon Comprehend✅ Amazon Textract✅ Amazon Translate✅ Amazon Transcribe
 ✅ Amazon Polly 
 <div align="left">
-    <img src="./Images/publicspeaking/awsignite1.jpg" width="450px">  
+    <img src="./Images/publicspeaking/awsignite1.png" width="450px">  
 </div>
 <br>
 <div align="left">
@@ -162,6 +166,7 @@ I took a virtual session on AWS ML services and had a hands-on demo on the follo
 ## 6. Title: Speaker at TechNexus Skill-up India, Date: 19th October 2025
 
 Took a session for the AI-900 certification for the TechNexus community.
+
 <div align="left">
     <img src="./Images/publicspeaking/ai900_1.jpg" width="450px">  
 </div>
@@ -232,7 +237,7 @@ I had the privilege of delivering an expert talk on "𝗚𝗶𝘁𝗛𝘂𝗯 �
 [AWS mult-session support](https://www.youtube.com/watch?v=_5qahn-PzAI)
 
 </br>
-[Hands-on experience with Amazon RDS for beginners | Amazon RDS demonstration for beginners] (https://youtu.be/1n1KmfP7vIk?si=4_wTZk_4IHE_q01)
+[Hands-on experience with Amazon RDS for beginners, Amazon RDS demonstration for beginners](https://youtu.be/1n1KmfP7vIk?si=4_wTZk_4IHE_q01)
 
 
 ## 📚 My Certifications Achieved:  
