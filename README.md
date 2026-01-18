@@ -240,6 +240,18 @@ I had the privilege of delivering an expert talk on "𝗚𝗶𝘁𝗛𝘂𝗯 �
 </br>
 [Hands-on experience with Amazon RDS for beginners, Amazon RDS demonstration for beginners](https://youtu.be/1n1KmfP7vIk?si=4_wTZk_4IHE_q01)
 
+## AWS Community Day Bengaluru 2025
+Featured as a 𝗩𝗼𝗶𝗰𝗲𝘀 of AWS User Group Bengaluru.
+<div align="left">
+    <img src="./Images/publicspeaking/voice.jpg" width="450px">  
+</div>
+<br>
+[AWS User Group Bengaluru LinkedIn post] (https://www.linkedin.com/posts/awsugblr_awscommunity-awsugblr-acdblr25-activity-7316417370183323649-DmZP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+
+## AWS User Group Dehradun steals the spotlight 
+Participated in stealing the spotlight AWS UG Dehradun event.
+[AWS User Group Dehradun LinkedIn post](https://www.linkedin.com/posts/aws-user-group-dehradun_aws-community-stealthespotlight-activity-7310673145638633486-QX_N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU) 
+
 
 ## 📚 My Certifications Achieved:  
 I'm 7x Cloud Certified.
