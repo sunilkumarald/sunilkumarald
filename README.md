@@ -24,14 +24,14 @@
 
 ## 1. Title: Speaker at AWS Student Community Day - South TN, India, Organised by AWS Cloud Clubs, Date: 25th October 2025
 
-Speaker at AWS Student Community Day - South TN and delivered a presentation on  **Simplifying database management with Amazon RDS and Aurora** for more than 300+ student audience at PSNA College of Engineering and Technology, Dindigul. The Session focused on the Amazon RDS database and RDS Aurora. I shared how these managed database services simplify provisioning, scaling, and maintenance — allowing developers and enterprises to focus on innovation instead of infrastructure. I also discussed best practices for performance, reliability, and cost optimization when running databases in the cloud. Using  hands-on, I demonstrated an Amazon RDS database instance connected with an Amazon EC2 instance.
+Speaker at AWS Student Community Day - South TN and delivered a presentation on  **Simplifying database management with Amazon RDS and Aurora** for more than 300+ student audience at PSNA College of Engineering and Technology, Dindigul. The Session focused on the Amazon RDS database and RDS Aurora. I shared how these managed database services simplify provisioning, scaling, and maintenance — allowing developers and enterprises to focus on innovation instead of infrastructure. I also discussed best practices for performance, reliability, and cost optimization when running databases in the cloud. Using  hands-on exercises, I demonstrated how to connect an Amazon RDS database instance with an Amazon EC2 instance.
 With real-world examples and practical guidance, this session empowered students to understand how AWS simplifies database operations while ensuring security, automation, and high availability.
 
 This event was organised by 
  - AWS Cloud Club - Anna University Regional Campus, Madurai
  - AWS Cloud Club - PSNA College of Engineering and Technology, Dindigul
 
-Presentation Material: [Simplifying database management with Amazon RDS and Aurora(pdf)]([https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)]
+Presentation Material: [Simplifying database management with Amazon RDS and Aurora(pdf)]([https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
 
 Speaker Mention: [AWS Student Community Day - Speaker Bio](https://scd.awsugmdu.in/#speakers)
 
@@ -89,10 +89,11 @@ AWS User Group Yaounde LinkedIn Official event handle mention: [AWS User Group Y
 
 ## 3. Title: Speaker at Hashicorp User Group Bangalore Meetup #1, Date: 2nd November 2025
 
-Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲𝗿 at the first Hashicorp User Group Bangalore meetup, hosted at the Couchbase office. My session focused on “𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗛𝗶𝗴𝗵𝗹𝘆 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗻 𝗔𝗪𝗦 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺” — a deep dive into how organizations can achieve scalability, automation, and high uptime with Terraform configuration files and reusable modules. It was inspiring to engage with a vibrant community of 𝗖𝗹𝗼𝘂𝗱, 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺, 𝗜𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲, 𝗮𝗻𝗱 𝗗𝗲𝘃𝗢𝗽𝘀 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀, whose curiosity and thoughtful questions made the session truly interactive. We explored topics around 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗼𝗮𝗱 𝗕𝗮𝗹𝗮𝗻𝗰𝗲𝗿𝘀, 𝗩𝗣𝗖 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴, 𝗮𝗻𝗱 𝘀𝘁𝗮𝘁𝗲 𝗳𝗶𝗹𝗲 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆, sparking great technical discussions.
+Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲𝗿 at the first Hashicorp User Group Bangalore meetup, hosted at the Couchbase office. My session focused on “𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗛𝗶𝗴𝗵𝗹𝘆 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗻 𝗔𝗪𝗦 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺” — a deep dive into how organizations can achieve scalability, automation, and high uptime with Terraform configuration files and reusable modules. It was inspiring to engage with a vibrant community of 𝗖𝗹𝗼𝘂𝗱, 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺, 𝗜𝗻𝗿𝗮𝗰𝗮𝗰𝗿𝗮𝗰𝗿𝗮𝗰𝗿𝗶𝗰𝗲, 𝗮𝗻𝗱 𝗗𝗲𝘃𝗢𝗽𝘀 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀, whose curiosity and thoughtful questions We explored topics around 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗼𝗮𝗱 𝗕𝗮𝗹𝗮𝗻𝗰𝗲𝗿𝘀, 𝗩𝗣𝗖 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴, 𝗮𝗻𝗱 𝘀𝘁𝗮𝘁𝗲 𝗳𝗶𝗹𝗲 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆, sparking great technical discussions.
 
 [Hasicorp UG Bangalore LinkedIn Official event handle mention]:(https://www.linkedin.com/posts/hug-bangalore_hugbangalore-hashicorp-hashicorpusergroup-activity-7389685180694818816-ExXq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
+**Presentation Material:** [Deploying a highly available web application on AWS using Terraform(pdf](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
 <div align="left">
     <img src="./Images/publicspeaking/HUG.jpg" width="450px">  
 </div>
@@ -123,6 +124,8 @@ Description: I had the wonderful opportunity to be a 𝘀𝗽𝗲𝗮𝗸𝗲�
 ## 4. Title: Speaker at AWS Orientation, Date: 12th August 2025
  I had the privilege of delivering an "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻" session to cloud enthusiasts 2nd and 3rd-year B.Tech students specializing in Artificial Intelligence and Data Science at Adhiyamaan College of Engineering, Hosur, Tamil Nadu, India.
 [LinkedIn post](https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+
+**Presentation Material:** [AWS Orientation program](https://github.com/sunilkumarald/TechTalks2025/blob/August-2025/AWS%20Orientation.pdf)
 <div align="left">
     <img src="./Images/publicspeaking/ao1.jpg" width="450px">  
 </div>
