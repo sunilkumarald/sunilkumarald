@@ -38,15 +38,18 @@ Key roles:
 
 ## Speaking & Workshops (selected)
 - **AWS Student Community Day — South TN, India** — 25 Oct 2025  
-  Talk: "Simplifying database management with Amazon RDS and Aurora" · Slides · [Event page](https://scd.awsugmdu.in/#speakers)
+  Talk: "Simplifying database management with Amazon RDS and Aurora" ·
+  [Event page](https://scd.awsugmdu.in/#speakers)
+  [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Amazon%20RDS%20and%20Aurora.pdf)
+
 
 - **12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
-  Topic: "AWS Compute Services — EC2 mastery" · [Slides](#) · [Recording](https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)
+  Topic: "AWS Compute Services — EC2 mastery" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf) · [Recording](https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)
 
 - **HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
-  Topic: "Deploying highly available web apps on AWS using Terraform" · Slides
+  Topic: "Deploying highly available web apps on AWS using Terraform" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
 
-(For a full list and gallery of images, see the `Images/publicspeaking/` directory)
+[For a full list and gallery of images, visit](https://github.com/sunilkumarald/sunilkumarald/blob/main/TALKS.md))
 
 ---
 
@@ -90,11 +93,3 @@ Certifications in progress:
 - Medium: https://medium.com/@suniel.vns
 
 I'd love to connect about training, speaking, or collaboration opportunities.
-
----
-
-*Notes & suggestions for maintainers*
-- Consider moving full talk galleries (many images) into a separate markdown file (e.g., `TALKS.md`) or an `images/` gallery to keep README quick to scan.
-- Replace placeholder slides/recording `#` links with final links and ensure files exist in the repo or are hosted externally.
-- Add alt text to images if you re-introduce them.
-- Fix the small typos in the original file (asscoiate → associate, genenerative → generative, Hasicorp → HashiCorp).
