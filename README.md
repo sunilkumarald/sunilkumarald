@@ -12,8 +12,8 @@ Bengaluru, India — I help teams and learners adopt cloud technologies (AWS, GC
 ## Table of Contents
 - [About](#about)
 - [What I do](#what-i-do)
-- [Speaking & Workshops](#speaking-&-workshops)
-- [Selected Articles & Videos](#selected-articles-&-videos)
+- [Speaking & Workshops](#speaking--workshops)
+- [Selected Articles & Videos](#selected-articles--videos)
 - [Certifications](#certifications)
 - [Contact](#contact)
 
@@ -49,7 +49,7 @@ Key roles:
 - **HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
   Topic: "Deploying highly available web apps on AWS using Terraform" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
 
-[For a full list and gallery of images, visit](https://github.com/sunilkumarald/sunilkumarald/blob/main/TALKS.md))
+[For a full list of speaking/workshops and gallery of images, pl visit](https://github.com/sunilkumarald/sunilkumarald/blob/main/TALKS.md)
 
 ---
 
@@ -82,7 +82,7 @@ Certifications in progress:
 - AWS CloudOps — Associate
 - Google Cloud Professional — Cloud Architect
 
-(Consider adding badge images or links to credential pages here.)
+[pl find the credly credential page]:(https://www.credly.com/users/sunil-kumar.971a054e)
 
 ---
 
