@@ -31,7 +31,7 @@ This event was organised by
  - AWS Cloud Club - Anna University Regional Campus, Madurai
  - AWS Cloud Club - PSNA College of Engineering and Technology, Dindigul
 
-Presentation Material: [Simplifying database management with Amazon RDS and Aurora(pdf)]([https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
+Presentation Material:[Simplifying database management with Amazon RDS and Aurora(pdf)](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
 
 Speaker Mention: [AWS Student Community Day - Speaker Bio](https://scd.awsugmdu.in/#speakers)
 
