@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunil Kumar
 
-## ☁️🏗️ Corporate Trainer | Cloud |AWS | Databases| DevOps
+## ☁️🏗️ Corporate Trainer- Cloud Technologies | Consultant | Content developer
 
 </div>
 
@@ -12,7 +12,7 @@
 - ✍️ I am a Technical content creator and write articles on Medium and LinkedIn <br>
         ↪ https://medium.com/@suniel.vns<br>
 - 👷 Volunteer<br>
-        ↪ Active member of AWS User Group Bengaluru, AWS User Group Madurai(AWS UG Community)
+        ↪ Active member of AWS User Group Bengaluru(AWS User Group Community), India.
 - 💬 
 - 🙌 I look forward to connecting with like-minded professionals and exploring opportunities to contribute to transformative tech initiatives. Let's connect and engage in meaningful conversations about the future of technology and its impact on our world.
 - 📧 You can reach me at suniel.vns@gmail.com or via LinkedIn @ [https://www.linkedin.com/in/cloudwithsunil/]
