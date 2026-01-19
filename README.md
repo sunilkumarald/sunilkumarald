@@ -12,8 +12,8 @@ Bengaluru, India — I help teams and learners adopt cloud technologies (AWS, GC
 ## Table of Contents
 - [About](#about)
 - [What I do](#what-i-do)
-- [Speaking & Workshops](#speaking--workshops)
-- [Selected Articles & Videos](#selected-articles--videos)
+- [Speaking & Workshops](#speaking-&-workshops)
+- [Selected Articles & Videos](#selected-articles-&-videos)
 - [Certifications](#certifications)
 - [Contact](#contact)
 
