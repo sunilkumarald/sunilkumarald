@@ -38,15 +38,16 @@ Key roles:
 
 ## Speaking & Workshops
 
-**1. AWS Student Community Day — South TN, India** — 25 Oct 2025  
+## 1. AWS Student Community Day — South TN, India** — 25 Oct 2025  
   Talk: "Simplifying database management with Amazon RDS and Aurora" ·
 I delivered a session on Amazon RDS and Aurora databases with a hands-on demo, engaging with 300+ students and mentors. 
 
   [Slide deck](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Amazon%20RDS%20and%20Aurora.pdf)
   
-  [Event page, Speaker Bio](https://scd.awsugmdu.in/#speakers)
+  [Speaker Bio](https://scd.awsugmdu.in/#speakers)
   
-  LinkedIn Official handle mention: [AWS Cloud Club AURCM](https://www.linkedin.com/posts/awscloudclubaurcm_aws-awsstudentcommunityday-awsdevelopers-activity-7389496270547189760-R7Vo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+  LinkedIn Official handle mention: 
+  [AWS Cloud Club AURCM](https://www.linkedin.com/posts/awscloudclubaurcm_aws-awsstudentcommunityday-awsdevelopers-activity-7389496270547189760-R7Vo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
   
 [PSNA AWS CLOUD CLUB](https://www.linkedin.com/posts/psna-aws-cloud-club_aws-awscloudclubs-studentsaws-activity-7389677557274607616-judl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU) 
   
@@ -55,8 +56,8 @@ I delivered a session on Amazon RDS and Aurora databases with a hands-on demo, e
   
 ![SCD - 1](Images/publicspeaking/scd1.jpg "AWS Student Community Day - slide")
 
-**2. HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
-  Topic: "Deploying highly available web apps on AWS using Terraform" ·
+## 2. HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
+Topic: "Deploying highly available web apps on AWS using Terraform" ·
 My session focused on “𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗛𝗶𝗴𝗵𝗹𝘆 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗻 𝗔𝗪𝗦 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺” — a Level 200 deep dive into how organizations can achieve scalability, automation, and high uptime with Terraform configuration files and reusable modules. 
 We explored topics around 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗼𝗮𝗱 𝗕𝗮𝗹𝗮𝗻𝗰𝗲𝗿𝘀, 𝗩𝗣𝗖 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴, 𝗮𝗻𝗱 𝘀𝘁𝗮𝘁𝗲 𝗳𝗶𝗹𝗲 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆.
 
@@ -71,14 +72,10 @@ We explored topics around 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗼�
 ![HUG - 3](Images/publicspeaking/hug3.jpg "HUG - group")
 ![HUG - 2](Images/publicspeaking/hug2.jpg "HUG - audience")
 
-![HUG - 3](Images/publicspeaking/hug3.jpg "HUG - group")
-
-![HUG - 4](Images/publicspeaking/hug4.jpg "HUG - stage")
-
 ![HUG - 5](Images/publicspeaking/hug5.jpg "HUG - networking")
 
 
-**3. 12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
+## 3. 12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
   Topic: "AWS Compute Services — EC2 mastery" ·
   [Slide deck](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf) ·
   
@@ -90,19 +87,22 @@ We explored topics around 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗼�
 
 ![AUGY - 1](Images/publicspeaking/augy1.jpg "AWS User Group Yaounde - slide")
 ![AUGY - 2](Images/publicspeaking/augy2.jpg "AWS User Group Yaounde - screenshot")
-![AUGY - 3](Images/publicspeaking/augy3.jpeg "AWS User Group Yaounde - host")
+![AUGY - 3](Images/publicspeaking/augy3.jpg "AWS User Group Yaounde - host")
 
 ## 4. AWS Orientation
 Date: 12 Aug 2025
 Topic: AWS orientation session for B.Tech students
-I had delivered a session on "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻" session to enthusiastic 2nd and 3rd-year B.Tech students specializing in Artificial Intelligence and Data Science at Adhiyamaan College of Engineering, Hosur, Tamil Nadu.𝗪𝗵𝗮𝘁 𝘄𝗲 𝗰𝗼𝘃𝗲𝗿𝗲𝗱: 
-✅ Foundation of cloud computing and its transformative impact 
-✅ AWS core services deep dive - Compute, Storage, Databases, Networking, and Security 
-✅ AWS AI/ML services and data analytics solutions 
-✅ Essential learning resources and career roadmaps 
-✅ Building compelling portfolios with AWS projects 
-✅ The strategic value of AWS certifications and digital credentials
-[Slides]: (https://github.com/sunilkumarald/TechTalks2025/blob/August-2025/AWS%20Orientation.pdf)
+
+I had delivered a session on "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻" session to enthusiastic 2nd and 3rd-year B.Tech students specializing in Artificial Intelligence and Data Science at Adhiyamaan College of Engineering, Hosur, Tamil Nadu.
+ I covered below topics: 
+-Foundation of cloud computing and its transformative impact 
+-AWS core services deep dive - Compute, Storage, Databases, Networking, and Security 
+-AWS AI/ML services and data analytics solutions 
+-Essential learning resources and career roadmaps 
+-Building compelling portfolios with AWS projects 
+-The strategic value of AWS certifications and digital credentials
+
+[Slide deck]: (https://github.com/sunilkumarald/TechTalks2025/blob/August-2025/AWS%20Orientation.pdf)
 [LinkedIn post]:(https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC)
 
 
@@ -115,7 +115,8 @@ I had delivered a session on "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶�
 
 ## 5. AWS Ignite
 Date: 15 Feb 2025
-Topic: AWS ML services — demos with Amazon Comprehend, Amazon Textract, Amazon Translate, Amazon Transcribe, Amazon Polly
+
+Topic: AWS ML services — demos with Amazon Comprehend, Amazon Textract, Amazon Translate, Amazon Transcribe, and Amazon Polly.
 
 ![AWS Ignite - 1](Images/publicspeaking/awsignite1.png "AWS Ignite - slide")
 
@@ -128,6 +129,7 @@ Topic: AWS ML services — demos with Amazon Comprehend, Amazon Textract, Amazon
 ## 6. TechNexus Skill-up India Community event
 Date: 19 Oct 2025
 Topic: AI-900 exam preparation session
+I took a virtual session for the AI-900 certification exam preparation.
 
 ![AI900 - 1](Images/publicspeaking/ai900_1.jpg "TechNexus - session")
 
@@ -157,7 +159,7 @@ YouTube highlights:
 ## Certifications
 I am 7x cloud certified:
 1. AWS Solutions Architect — Associate
-2. AWS AI Practitioner
+2. AWS AI Certified Practitioner
 3. AWS Certified Cloud Practitioner
 4. Google Cloud Associate Cloud Engineer
 5. Microsoft Azure Data Fundamentals (DP-900)
