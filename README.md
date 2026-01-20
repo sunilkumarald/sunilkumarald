@@ -41,13 +41,28 @@ Key roles:
   Talk: "Simplifying database management with Amazon RDS and Aurora" ·
   [Event page](https://scd.awsugmdu.in/#speakers)
   [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Amazon%20RDS%20and%20Aurora.pdf)
+  
+![SCD - 1](Images/publicspeaking/scd1.jpg "AWS Student Community Day - slide")
 
+![SCD - 2](Images/publicspeaking/scd2.jpg "AWS Student Community Day - audience")
+
+  - **HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
+  Topic: "Deploying highly available web apps on AWS using Terraform" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
+
+![HUG - banner](Images/publicspeaking/HUG.jpg "HashiCorp UG Bangalore banner")
+
+![HUG - 1](Images/publicspeaking/hug1.jpg "HUG - session")
+
+![HUG - 2](Images/publicspeaking/hug2.jpg "HUG - audience")
 
 - **12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
   Topic: "AWS Compute Services — EC2 mastery" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf) · [Recording](https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)
 
-- **HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
-  Topic: "Deploying highly available web apps on AWS using Terraform" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
+![AUGY - 1](Images/publicspeaking/augy1.jpg "AWS User Group Yaounde - slide")
+
+![AUGY - 2](Images/publicspeaking/augy2.jpg "AWS User Group Yaounde - screenshot")
+
+![AUGY - 3](Images/publicspeaking/augy3.jpeg "AWS User Group Yaounde - host")
 
 [For a full list of speaking/workshops and gallery of images, pl visit](https://github.com/sunilkumarald/sunilkumarald/blob/main/TALKS.md)
 
