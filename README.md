@@ -41,10 +41,10 @@ Key roles:
   Talk: "Simplifying database management with Amazon RDS and Aurora" ·
   [Event page](https://scd.awsugmdu.in/#speakers)
   [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Amazon%20RDS%20and%20Aurora.pdf)
+
+  ![SCD - 2](Images/publicspeaking/scd2.jpg "AWS Student Community Day - audience")
   
 ![SCD - 1](Images/publicspeaking/scd1.jpg "AWS Student Community Day - slide")
-
-![SCD - 2](Images/publicspeaking/scd2.jpg "AWS Student Community Day - audience")
 
 
   - **2. HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
@@ -61,22 +61,18 @@ Key roles:
   Topic: "AWS Compute Services — EC2 mastery" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf) · [Recording](https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)
 
 ![AUGY - 1](Images/publicspeaking/augy1.jpg "AWS User Group Yaounde - slide")
-
 ![AUGY - 2](Images/publicspeaking/augy2.jpg "AWS User Group Yaounde - screenshot")
-
 ![AUGY - 3](Images/publicspeaking/augy3.jpeg "AWS User Group Yaounde - host")
 
 ## 4. AWS Orientation
 Date: 12 Aug 2025
 Topic: AWS orientation session for B.Tech students
 
-- [LinkedIn post]:(https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC)
-- [Slides]: https://github.com/sunilkumarald/TechTalks2025/blob/August-2025/AWS%20Orientation.pdf
+[LinkedIn post]:(https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC)
+[Slides]: (https://github.com/sunilkumarald/TechTalks2025/blob/August-2025/AWS%20Orientation.pdf)
 
 ![AO - 1](Images/publicspeaking/ao1.jpg "AWS Orientation - slide")
-
 ![AO - 2](Images/publicspeaking/ao2.jpg "AWS Orientation - session")
-
 ![AO - 3](Images/publicspeaking/ao3.jpg "AWS Orientation - hands-on")
 
 
@@ -84,7 +80,7 @@ Topic: AWS orientation session for B.Tech students
 
 ## 5. AWS Ignite
 Date: 15 Feb 2025
-Topic: AWS ML services — demos with Comprehend, Textract, Translate, Transcribe, Polly
+Topic: AWS ML services — demos with Amazon Comprehend, Amazon Textract, Amazon Translate, Amazon Transcribe, Amazon Polly
 
 ![AWS Ignite - 1](Images/publicspeaking/awsignite1.png "AWS Ignite - slide")
 
@@ -94,7 +90,7 @@ Topic: AWS ML services — demos with Comprehend, Textract, Translate, Transcrib
 
 ---
 
-## 6. TechNexus Skill-up India
+## 6. TechNexus Skill-up India Community event
 Date: 19 Oct 2025
 Topic: AI-900 exam preparation session
 
