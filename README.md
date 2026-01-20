@@ -37,7 +37,7 @@ Key roles:
 ---
 
 ## Speaking & Workshops (selected)
-- **AWS Student Community Day — South TN, India** — 25 Oct 2025  
+- **1. AWS Student Community Day — South TN, India** — 25 Oct 2025  
   Talk: "Simplifying database management with Amazon RDS and Aurora" ·
   [Event page](https://scd.awsugmdu.in/#speakers)
   [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Amazon%20RDS%20and%20Aurora.pdf)
@@ -46,7 +46,8 @@ Key roles:
 
 ![SCD - 2](Images/publicspeaking/scd2.jpg "AWS Student Community Day - audience")
 
-  - **HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
+
+  - **2. HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
   Topic: "Deploying highly available web apps on AWS using Terraform" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
 
 ![HUG - banner](Images/publicspeaking/HUG.jpg "HashiCorp UG Bangalore banner")
@@ -55,7 +56,8 @@ Key roles:
 
 ![HUG - 2](Images/publicspeaking/hug2.jpg "HUG - audience")
 
-- **12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
+
+- **3. 12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
   Topic: "AWS Compute Services — EC2 mastery" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf) · [Recording](https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)
 
 ![AUGY - 1](Images/publicspeaking/augy1.jpg "AWS User Group Yaounde - slide")
@@ -64,15 +66,54 @@ Key roles:
 
 ![AUGY - 3](Images/publicspeaking/augy3.jpeg "AWS User Group Yaounde - host")
 
+## 4. AWS Orientation
+Date: 12 Aug 2025
+Topic: AWS orientation session for B.Tech students
+
+- [LinkedIn post]:(https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC)
+- [Slides]: https://github.com/sunilkumarald/TechTalks2025/blob/August-2025/AWS%20Orientation.pdf
+
+![AO - 1](Images/publicspeaking/ao1.jpg "AWS Orientation - slide")
+
+![AO - 2](Images/publicspeaking/ao2.jpg "AWS Orientation - session")
+
+![AO - 3](Images/publicspeaking/ao3.jpg "AWS Orientation - hands-on")
+
+
+---
+
+## 5. AWS Ignite
+Date: 15 Feb 2025
+Topic: AWS ML services — demos with Comprehend, Textract, Translate, Transcribe, Polly
+
+![AWS Ignite - 1](Images/publicspeaking/awsignite1.png "AWS Ignite - slide")
+
+![AWS Ignite - 2](Images/publicspeaking/awsignite2.jpg "AWS Ignite - demo")
+
+![AWS Ignite - 3](Images/publicspeaking/awsignite3.jpg "AWS Ignite - audience")
+
+---
+
+## 6. TechNexus Skill-up India
+Date: 19 Oct 2025
+Topic: AI-900 exam preparation session
+
+![AI900 - 1](Images/publicspeaking/ai900_1.jpg "TechNexus - session")
+
+![AI900 - 2](Images/publicspeaking/ai900_2.png "TechNexus - slide")
+
+![AI900 - 3](Images/publicspeaking/ai900_3.png "TechNexus - lab")
+
+
 [For a full list of speaking/workshops and gallery of images, pl visit](https://github.com/sunilkumarald/sunilkumarald/blob/main/TALKS.md)
 
 ---
 
 ## Selected Articles & Videos
 Featured posts:
-- "Exploring AWS Gen AI Stack and Amazon Q Developer" — Medium · [Read](https://medium.com/@suniel.vns/my-enlightening-journey-through-week-6-of-the-aws-cohort-7-8bf36574c834)
-- "Amazon Q CLI-Powered Game Development" — Medium · [Read](https://medium.com/@suniel.vns/amazon-q-cli-powered-game-development-9ec62fc6d67c)
-- "How does AWS keep the meters running?" — Medium · [Read](https://medium.com/@suniel.vns/how-does-aws-keep-the-meters-running-2e36e5381d8c)
+- "1. Exploring AWS Gen AI Stack and Amazon Q Developer" — Medium · [Read](https://medium.com/@suniel.vns/my-enlightening-journey-through-week-6-of-the-aws-cohort-7-8bf36574c834)
+- "2. Amazon Q CLI-Powered Game Development" — Medium · [Read](https://medium.com/@suniel.vns/amazon-q-cli-powered-game-development-9ec62fc6d67c)
+- "3. How does AWS keep the meters running?" — Medium · [Read](https://medium.com/@suniel.vns/how-does-aws-keep-the-meters-running-2e36e5381d8c)
 
 YouTube highlights:
 - [AWS multi-session support](https://www.youtube.com/watch?v=_5qahn-PzAI)
@@ -97,7 +138,7 @@ Certifications in progress:
 - AWS CloudOps — Associate
 - Google Cloud Professional — Cloud Architect
 
-[pl find the credly credential page]:(https://www.credly.com/users/sunil-kumar.971a054e)
+[pl find the Credly credential page]:(https://www.credly.com/users/sunil-kumar.971a054e)
 
 ---
 
