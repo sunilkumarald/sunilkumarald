@@ -52,11 +52,9 @@ Key roles:
 
 ![HUG - banner](Images/publicspeaking/HUG.jpg "HashiCorp UG Bangalore banner")
 
-![HUG - 4](Images/publicspeaking/hug4.jpg "HUG - stage")
-
 ![HUG - 3](Images/publicspeaking/hug3.jpg "HUG - group")
 
-![HUG - 2](Images/publicspeaking/hug2.jpg "HUG - audience")
+![HUG - 5](Images/publicspeaking/hug5.jpg "HUG - networking")
 
 
 - **3. 12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
