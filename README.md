@@ -36,11 +36,16 @@ Key roles:
 
 ---
 
-## Speaking & Workshops (selected)
+## Speaking & Workshops
 - **1. AWS Student Community Day — South TN, India** — 25 Oct 2025  
   Talk: "Simplifying database management with Amazon RDS and Aurora" ·
-  [Event page](https://scd.awsugmdu.in/#speakers)
-  [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Amazon%20RDS%20and%20Aurora.pdf)
+I delivered a session on 𝗔𝗺𝗮𝘇𝗼𝗻 𝗥𝗗𝗦 𝗱𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 with a hands-on demo, engaging with 300+ students and mentors. 
+
+  [Slide deck](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Amazon%20RDS%20and%20Aurora.pdf)
+  [Event page, Speaker Bio](https://scd.awsugmdu.in/#speakers)
+  Linkedin Offical handle mention: [AWS Cloud Club AURCM](https://www.linkedin.com/posts/awscloudclubaurcm_aws-awsstudentcommunityday-awsdevelopers-activity-7389496270547189760-R7Vo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+[PSNA AWS CLOUD CLUB](https://www.linkedin.com/posts/psna-aws-cloud-club_aws-awscloudclubs-studentsaws-activity-7389677557274607616-judl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU) 
+  
 
   ![SCD - 2](Images/publicspeaking/scd2.jpg "AWS Student Community Day - audience")
   
@@ -48,7 +53,12 @@ Key roles:
 
 
   - **2. HashiCorp User Group Bangalore Meetup #1** — 2 Nov 2025  
-  Topic: "Deploying highly available web apps on AWS using Terraform" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
+  Topic: "Deploying highly available web apps on AWS using Terraform" ·
+My session focused on “𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗛𝗶𝗴𝗵𝗹𝘆 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗻 𝗔𝗪𝗦 𝘂𝘀𝗶𝗻𝗴 𝗧𝗲𝗿𝗿𝗮𝗳𝗼𝗿𝗺” — a Level 200 deep dive into how organizations can achieve scalability, automation, and high uptime with Terraform configuration files and reusable modules. We explored topics around 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗟𝗼𝗮𝗱 𝗕𝗮𝗹𝗮𝗻𝗰𝗲𝗿𝘀, 𝗩𝗣𝗖 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴, 𝗮𝗻𝗱 𝘀𝘁𝗮𝘁𝗲 𝗳𝗶𝗹𝗲 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆.
+
+[Slide deck](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Deploying%20highly%20available%20web%20app%20on%20AWS%20with.pdf)
+[Speaker bio](https://www.linkedin.com/posts/hug-bangalore_hugbangalore-hashicorp-hashicorpusergroup-activity-7389685180694818816-ExXq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+[Linkedin Official handle mention](https://www.linkedin.com/posts/hug-bangalore_hugbangalore-hashicorp-hashicorpusergroup-activity-7389685180694818816-ExXq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 ![HUG - banner](Images/publicspeaking/HUG.jpg "HashiCorp UG Bangalore banner")
 
@@ -63,7 +73,11 @@ Key roles:
 
 
 - **3. 12-Week AWS Workshop Challenge (AWS User Group Yaounde)** — 11 Oct 2025  
-  Topic: "AWS Compute Services — EC2 mastery" · [Slides](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf) · [Recording](https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)
+  Topic: "AWS Compute Services — EC2 mastery" ·
+  [Slide deck](https://github.com/sunilkumarald/TechTalks2025/blob/October-2025/Week2-%20AWS%20EC2%20and%20compute%20services-Mr%20Sunil%20Kumar.pdf) ·
+  [Speaker Bio](https://www.linkedin.com/posts/aws-user-group-yaounde_aws-cloud-devops-activity-7381255029208342531-ZkFx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
+  [Recording](https://drive.google.com/file/d/1XMyIIcXvjL_HPaxbCIvq3p6U52sgdAuh/view?usp=sharing)
+  [LinkedIn Official handle mention](https://www.linkedin.com/posts/women-innovating-with-cloud_awschallenge-wica-womenincloud-ugcPost-7383430928687333376-W22E?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA4OIg4B4bYDC7bE7r1HMwdHSYobV60Y_gU)
 
 ![AUGY - 1](Images/publicspeaking/augy1.jpg "AWS User Group Yaounde - slide")
 ![AUGY - 2](Images/publicspeaking/augy2.jpg "AWS User Group Yaounde - screenshot")
@@ -72,9 +86,16 @@ Key roles:
 ## 4. AWS Orientation
 Date: 12 Aug 2025
 Topic: AWS orientation session for B.Tech students
-
-[LinkedIn post]:(https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC)
+I had delivered a session on "𝗔𝗪𝗦 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻" session to enthusiastic 2nd and 3rd-year B.Tech students specializing in Artificial Intelligence and Data Science at Adhiyamaan College of Engineering, Hosur, Tamil Nadu.𝗪𝗵𝗮𝘁 𝘄𝗲 𝗰𝗼𝘃𝗲𝗿𝗲𝗱: 
+✅ Foundation of cloud computing and its transformative impact 
+✅ AWS core services deep dive - Compute, Storage, Databases, Networking, and Security 
+✅ AWS AI/ML services and data analytics solutions 
+✅ Essential learning resources and career roadmaps 
+✅ Building compelling portfolios with AWS projects 
+✅ The strategic value of AWS certifications and digital credentials
 [Slides]: (https://github.com/sunilkumarald/TechTalks2025/blob/August-2025/AWS%20Orientation.pdf)
+[LinkedIn post]:(https://www.linkedin.com/posts/cloudwithsunil_awstraining-cloudcomputing-upskilling-activity-7361634792834023425-jEBC)
+
 
 ![AO - 1](Images/publicspeaking/ao1.jpg "AWS Orientation - slide")
 ![AO - 2](Images/publicspeaking/ao2.jpg "AWS Orientation - session")
