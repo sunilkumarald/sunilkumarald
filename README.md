@@ -36,18 +36,18 @@ Key roles:
 
 ---
 
-## Speaking & Workshops
+## Technical talks, Workshops, mentoring
 
-## 2026
+## 2026 Contribution
 ## CloudHER cohort1 Mentor, July 2026
-- Mentoring two students from Nigeria on cloud computing etc.
+- Mentoring two students from Nigeria on cloud computing, etc.
 ## Volunteered for Redis DevFest event, Jan 2026
 
-## Volunteered as a judge for Google Developers Group VVET , Mysuru TechSprint Google Hackathon finale
+## Volunteered as a judge for Google Developers Group VVET, Mysuru TechSprint Google Hackathon finale
 
-![VVET 1](Images/publicspeaking/hug5.jpg "HUG - networking")
+![VVET 1](Images/publicspeaking/poster2.jpeg "GDG hackathon Judge")
 
-  ## 2025
+  ## 2025 contribution
 ## 1. AWS Student Community Day — South TN, India** — 25 Oct 2025  
   Talk: "Simplifying database management with Amazon RDS and Aurora" ·
 I delivered a session on Amazon RDS and Aurora databases with a hands-on demo, engaging with 300+ students and mentors. 
